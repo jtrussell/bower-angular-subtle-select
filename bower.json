@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "main": [
+    "subtle-select.js",
+    "subtle-select.css"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": "git://github.com/angular/bower-angular.git#~1.0.7"
+  },
+  "devDependencies": [],
+  "private": false
+}
