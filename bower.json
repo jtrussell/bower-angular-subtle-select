@@ -1,4 +1,5 @@
 {
+  "name": "angular-subtle-select",
   "version": "0.1.0",
   "main": [
     "subtle-select.js",
